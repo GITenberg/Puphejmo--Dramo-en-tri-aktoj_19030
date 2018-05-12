@@ -1,0 +1,36 @@
+_repo: Puphejmo--Dramo-en-tri-aktoj_19030
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tangerud, Odd
+    gutenberg_agent_id: '8417'
+    url: http://www.gutenberg.org/2009/agents/8417
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: 'Translation of: Et dukkehjem'
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Esperanto
+gutenberg_issued: '2006-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19030'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian drama'
+- !lcsh 'Marriage -- Drama'
+title: 'Puphejmo: Dramo en tri aktoj'
+url: http://www.gutenberg.org/ebooks/19030
